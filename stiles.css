@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+    justify-content: center;
+    align-items: center;
+}
+
+#h1b {
+    color:blueviolet;
+    text-align:center
+}
+
+img {
+    display: block;
+    margin: o auto;
+    align-items: center;
+    padding: 10px;
+
+}
+
+.parrafos {
+    color: blue;
+    text-align: center;
+    font-size: 16px;
+    padding: 5px;
+}
